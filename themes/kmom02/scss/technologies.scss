@@ -1,4 +1,4 @@
-.courses{
+.courses {
     display: grid;
     text-align: center;
     margin: 10px;
@@ -15,7 +15,7 @@
     padding: 20px;
     font-size: 30px;
     text-align: left;
-    }
+}
 
 .box1 {
     font-size: 70px;
@@ -23,21 +23,21 @@
     grid-column-start: 1;
     grid-column-end: 4;
     margin: 10px;
-    }
+}
 
 .box2 {
     @include boxescss;
     height: 100px;
 }
 
-.box3{
+.box3 {
     @include boxescss;
     height: 210px;
     grid-column-start: 2;
     grid-column-end: 4;
 }
 
-.box4{
+.box4 {
     @include boxescss;
     height: 100px;
     grid-column-start: 1;
@@ -46,7 +46,7 @@
 
 .box2:hover,
 .box3:hover,
-.box4:hover{
+.box4:hover {
     transition: 0.6s;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }

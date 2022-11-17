@@ -17,13 +17,15 @@
     .courses {
         grid-template-columns: repeat(1, 1fr);
     }
+
     .box1 ,
     .box3 ,
     .box4 {
         grid-column-start: 1;
         grid-column-end: 1;
     }
-    .navcontainer{
+
+    .navcontainer {
         display: none;
     }
 }

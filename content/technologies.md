@@ -1,5 +1,5 @@
 ---
-Title: Courses
+Title: Technologies
 Description: Courses.
 Template: technologies
 ---
