@@ -1,0 +1,30 @@
+.containertec {
+    display: flex;
+    margin-bottom: 100px;
+    }
+
+.navcontainer{
+    width: 20%;
+    height: 20%;
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    font-size: 33px;
+    a{
+        text-decoration: none;
+        margin: 0 auto;
+        display:block;
+        text-align: center
+    }
+    ul{
+        list-style-type: none;
+    }
+}
+
+.content{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}

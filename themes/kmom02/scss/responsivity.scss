@@ -1,0 +1,29 @@
+@media (max-width: 1500px) {
+    .title,
+    .logo {
+        padding: 1em 1em 1em 0;
+    }
+    
+    .title {
+        min-width: 50%;
+    }
+    
+    .logo {
+        max-width: 50%;
+    }
+}
+
+@media (max-width: 800px) {
+    .courses {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .box1 ,
+    .box3 ,
+    .box4 {
+        grid-column-start: 1;
+        grid-column-end: 1;
+    }
+    .navcontainer{
+        display: none;
+    }
+}

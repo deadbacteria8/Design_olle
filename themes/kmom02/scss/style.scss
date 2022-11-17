@@ -1,0 +1,81 @@
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
+@import 'blockquotes';
+@import 'code';
+@import 'technologies';
+@import 'typography';
+@import 'responsivity';
+@import 'footerheadernav';
+@import 'technology';
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+    font-size: 100%;
+}
+
+body {
+    background-color: $background-color;
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    flex: 1 0 auto;
+
+    h1 {
+        margin-left: 3%;
+    }
+    
+}
+
+img {
+    max-width: 100%;
+}
+
+.pictureofme {
+    margin-top: 5%;
+    max-width: 100%;
+    max-height: 90%;
+}
+
+.box {
+    background-color: rgb(243, 238, 238);
+    border: solid rgb(10, 10, 10);
+    max-width: 50%;
+    max-height: 80%;
+    margin: 3%;
+    padding: 3%;
+}
+
+.insidediv {
+    max-width: 100%;
+    max-height: 10%;
+}
+
+.social {
+    display: flex;
+    
+    a {
+        text-decoration: none;
+        padding: 2px;
+    }
+}
+
+.pic {
+    height: 30%;
+    width: 40%;
+    margin-bottom: 10%;
+}

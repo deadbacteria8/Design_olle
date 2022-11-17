@@ -1,0 +1,51 @@
+@import 'variables';
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #222;
+    padding: $tenpixels;
+
+    a {
+        color: #222;
+    }
+}
+
+.header {
+    margin: $tenpixels;
+}
+
+.footer .social {
+    font-size: 2rem;
+}
+
+.header,
+.footer {
+    flex: 0 0 auto;
+}
+
+.header,
+.site-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav {
+    a {
+        color: rgb(234, 225, 225);
+        text-decoration: none;
+    }
+
+    li {
+        background-color: rgb(143, 142, 142);
+    }
+    
+    li:hover {
+        background-color: rgb(6, 6, 242);
+    }
+    
+}
+
+.hidden {
+    display: none !important;
+}
