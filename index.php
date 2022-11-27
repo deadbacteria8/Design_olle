@@ -19,7 +19,7 @@ $pico = new Pico(
 //$pico->setConfig(array());
 
 // run application
-echo $pico->run();
 $pico->setConfig(array(
     'session' => $_SESSION
 ));
+echo $pico->run();

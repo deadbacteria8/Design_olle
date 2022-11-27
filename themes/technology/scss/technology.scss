@@ -1,3 +1,5 @@
+@import 'variables';
+
 .containertec {
     display: flex;
     margin-bottom: 100px;
@@ -6,8 +8,8 @@
 .navcontainer {
     width: 20%;
     height: 20%;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(2, 2, 2);
+    background-color: $light-blue;
+    border: 1px solid $blue;
     padding: 10px;
     margin: 10px;
     font-size: 33px;
@@ -17,6 +19,7 @@
         margin: 0 auto;
         display: block;
         text-align: center;
+        color: $blue;
     }
     
     ul {
@@ -25,8 +28,16 @@
 }
 
 .content {
-    background-color: rgb(245, 241, 241);
-    border: 1px solid rgb(4, 4, 4);
+    background-color: $light-blue;
+    border: 1px solid $blue;
     padding: 10px;
     margin: 10px;
+    
+    h2 {
+        color: $blue;
+    }
+
+    p {
+        color: $blue;
+    }
 }

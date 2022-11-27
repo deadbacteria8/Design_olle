@@ -4,7 +4,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
 @import '../../node_modules/normalize.css/normalize';
-@import 'variables';
+@import 'dark-variables';
 @import 'blockquotes';
 @import 'code';
 @import 'technologies';
@@ -21,15 +21,33 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
+.header {
+    p {
+        color: $medium-gray;
+    }
+
+    img {
+        filter: grayscale(100%);
+    }
+}
+
 html {
     height: 100%;
     font-size: 100%;
 }
 
 body {
-    background-color: $darker-blue;
+    background-color: $dark-gray;
     display: flex;
     flex-direction: column;
+}
+
+h1 {
+    color: $light-gray;
 }
 
 .main {
@@ -52,13 +70,15 @@ img {
 }
 
 .box {
-    background-color: $light-blue;
-    border: 1px solid $blue;
+    border: solid rgb(10, 10, 10);
     max-width: 50%;
     max-height: 80%;
     margin: 3%;
     padding: 3%;
-    color: $blue;
+
+    p {
+        color: $brown;
+    }
 }
 
 .insidediv {
@@ -81,22 +101,54 @@ img {
     margin-bottom: 10%;
 }
 
-h1 {
-    color: $blue;
-}
+.nav {
+    a {
+        color: $brown;
+    }
 
-.header {
-    p {
-        color: $blue;
+    li {
+        background-color: $medium-gray;
+    }
+
+    li:hover {
+        background-color: $light-gray;
     }
 }
 
-.footer {
+.navcontainer,
+.content,
+.box,
+.box2,
+.box3,
+.box4 {
+    border: 1px solid $medium-gray;
+    background-color: $brown;
+
     p {
-        color: $blue;
+        color: $latte-color;
     }
 
     a {
-        color: $blue;
+        color: $latte-color;
     }
+
+    h2 {
+        color: $latte-color;
+    }
+    
 }
+
+.box1 {
+    color: $latte-color;
+}
+
+pre {
+    background-color: $light-gray;
+    border: 1px solid $brown;
+}
+
+.footer a,
+p {
+    color: $light-gray;
+}
+

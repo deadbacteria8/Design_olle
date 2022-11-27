@@ -3,16 +3,12 @@
 .footer {
     display: flex;
     justify-content: space-between;
-    border-top: 1px solid #222;
-    padding: $tenpixels;
-
-    a {
-        color: #222;
-    }
+    border-top: 1px solid $blue;
+    padding: 10px;
 }
 
 .header {
-    margin: $tenpixels;
+    margin: 10px;
 }
 
 .footer .social {
@@ -30,18 +26,21 @@
     justify-content: space-between;
 }
 
+a {
+    text-decoration: none;
+}
+
 .nav {
     a {
-        color: rgb(234, 225, 225);
-        text-decoration: none;
+        color: $light-blue;
     }
 
     li {
-        background-color: rgb(143, 142, 142);
+        background-color: $blue;
     }
     
     li:hover {
-        background-color: rgb(6, 6, 242);
+        background-color: $baby-blue;
     }
     
 }
