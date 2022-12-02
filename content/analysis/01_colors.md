@@ -1,7 +1,7 @@
 ---
 Title: Colors
 Description: This is our colors page
-
+Template: analysis
 ---
 
 Colors
@@ -42,6 +42,8 @@ Färger: Färgerna som används är röd,grön,gul,blå,grå och vit.
 Färgaccent: Ett ganska färglatt tema med några accentfärger som blå, gul och grå. Huvudfärgerna skulle är vit röd och grön.
 
 Färgschema: Färgschemat för webbsidan är med högsta sannolikhet Triad.
+<br>
+Jag tror att snälltåget typografi och färgval på deras hemsida matchar den bild dem önskar sig ha.
 
 Bild: 
 <img src="%base_url%/image/snalltag.jpg" width="40%">
@@ -65,9 +67,11 @@ Färgerna som används är: Blå, blå-svart, svart, ljus blå/vit ljus blå, oc
 
 Färgaccent: Det som lägger färgaccenten är färgerna vit-ljus-blå,svart och blå-svart. Huvudfärgerna är blå och vit.
 Färgschema: Färgschemat för SLs hemsida är med stor sannolikhet monokrom. Det finns inte mycket färgvariation. Schemat följer ett tydligt mönster med den blåa färgen.
+<br>
+Jag tror att SLs typografi och färgval på deras hemsida matchar den bild dem önskar sig ha.
 
 Bild: 
-<img src="%base_url%/image/sl.jpg" width="40%">
+<img src="%base_url%/image/SL.jpg" width="40%">
 
 Norwegian:
 
@@ -88,6 +92,8 @@ Färgerna som används är: blå,röd,ljus-grå,ljusare ljus-grå och vit.
 Färgaccent: Färgaccenten är blå och ljus-grå.
 
 Färgschema: Färgschemat ser ut att vara triadiskt eftersom det röd och blå ligger långt ifrån varandra på färgskalan.
+<br>
+Jag tror att norwegians typografi och färgval på deras hemsida matchar den bild dem önskar sig ha.
 
 Bild: 
 <img src="%base_url%/image/norwegian.jpg" width="40%">
@@ -98,9 +104,13 @@ Analys
 Snälltåget:
 Jag tycker att typografin och färgvalet går bra ihop. Det känns som en ganska lekfull kombination. Färgvalet är färglatt vilket ger en positiv känsla. Det färglada temat passar bra till Snälltåget som annonserar och säljer biljetter till kunder som möjligtvis ska ta semester och åka iväg, inrikes eller utrikes. Hemsidan håller sig också moderna med trendande färgval som grått och vit.
 <br>
+Eftersom jag själv får bilden av att färgvalet och typografin passar så tror jag att Snälltåget är nöjda med sitt färgval och typografi. 
+<br>
 <br>
 SL:
 Typografin till SLs hemsida passar superbra. Jag som är uppväxt i Stockholm känner precis igen typografin. SL använder sig av denna typografi i kollektivtrafiken också. Så fort jag ser typografin så kopplar jag det till SL. SL har generellt ett blått färgtema, tidigare blåa sl-kort och blåa tunnelbanor bland annat, så jag tycker att dem gör rätt för sig när dem följer det blåa färgtemat.
+<br>
+
 <br>
 <br>
 Norwegian:
