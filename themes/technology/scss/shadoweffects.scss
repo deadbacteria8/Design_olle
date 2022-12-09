@@ -1,0 +1,18 @@
+
+.box2,
+.box3,
+.box4,
+.item1,
+.item2,
+.item3 {
+    transition: 0.6s;
+}
+
+.box2:hover,
+.box3:hover,
+.box4:hover,
+.item1:hover,
+.item2:hover,
+.item3:hover {
+    box-shadow: 0 0 11px rgba(33, 33, 33, 0.5); 
+}

@@ -1,8 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
 p {
     font-size: 1.3rem;
     line-height: 1.4;
 }
 
-* {
+p {
     font-family: 'Nunito';
+}
+
+h1,
+h2,
+a,
+.nav p {
+    font-family: 'Zen Dots';
 }
