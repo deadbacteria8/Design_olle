@@ -12,7 +12,7 @@ Skriv en eller två rader om vad uppgiften handlar om.
 Urval
 -----------------------
 
-Jag kommer att gå igenom 3 olika personsidor. Den första hemsidan är Gal Rabaniams hemsida. Gal Rabaniam är en grafisk designer. Hemsidan besöktes 2022-12-08[1]. Den andra hemsidan är Thomas Boscs hemsida. Thomas Bosc är en content manager. Hemsidan besöktes 2022-12-08[2]. Den tredje hemsidan är Matthew P Mungers hemsida. Matthew jobbar med olika typer av design. Hemsidan besöktes 2022-12-08[3].
+Jag kommer att gå igenom 3 olika personsidor. Den första hemsidan är Gal Rabaniams hemsida. Gal Rabaniam är en grafisk designer. Hemsidan besöktes 2022-12-08[1]. Den andra hemsidan är Thomas Boscs hemsida. Thomas Bosc är en content manager. Hemsidan besöktes 2022-12-19[2]. Den tredje hemsidan är Matthew P Mungers hemsida. Matthew jobbar med olika typer av design. Hemsidan besöktes 2022-12-08[3].
 
 Metod
 -----------------------
@@ -28,7 +28,7 @@ Syftet med Gal Rabaniams hemsida är att introducera sig själv/göra reklam fö
 <br>
 <br>
 Thomas Bosc:
-Syftet med Thomas Bosc sida är likt Gal Rabaniams hemsida, att introducera sig själv och göra reklam för sg själv. Detta tycker jag att Thomas Bosc gör bra då han använder sig av sin kunskap i sin design och visar upp färdiga "produkter" av det han har gjort. Den utvalda designen gynnar med stor sannolikhet Thomas Bosc. Hemsidan är uppbyggt av ett stort flöde. Designen är väldigt kreativ och modern, med flera olika effekter som framkallas när man "hovrar" över något eller drar med muspekaren åt ett håll. Färgvalen är endast grått och svart. Något som kan tyckas vara stilrent. Typografin som används känns också väldigt modern. Något som passar bra till färgvalet. Eftersom webbsidan endast är uppbygt på ett stort flöde så finns det bara en framsida. Designprinciperna är densamma på hela framsidan.
+Syftet med Thomas Bosc sida är likt Gal Rabaniams hemsida, att introducera sig själv och göra reklam för sg själv. Detta tycker jag att Thomas Bosc gör bra då han använder sig av sin kunskap i sin design och visar upp färdiga "produkter" av det han har gjort. Den utvalda designen gynnar med stor sannolikhet Thomas Bosc. Hemsidan är uppbyggt av ett stort flöde. Designen är väldigt kreativ och modern, med flera olika hover effekter på framsidan. Färgvalen är endast grått och svart. Bodyn är svart och typsnitten är grå. Objekten som Thomas presenterar i flödet har färger som blå bland annat. Det blir ett bra kontrast mellan body och objekt. Objekten sticker ut från den svarta bodyn. Typografin som används passar färgvalen. Den känns modern. Thomas använder sig av typsnittet Elgoc alt i sina rubriker och typsnittet Beatrice för brödtexten. Han använder sig av en line-height på 0.9. Radavståndet fungerar bra med resten av typografin. Eftersom sidan är fylld med hover-effekter och objekt i olika färger så passar det svarta och gråa färgtemat bra. Det är tydligt att fokuset ska ligga på objektet som Thomas ställer ut i sitt flöde. Eftersom webbsidan endast är uppbygt på ett stort flöde så finns det bara en framsida. Designprinciperna är densamma på hela framsidan.
 <br>
 <br>
 Matthew P Munger:
@@ -57,7 +57,7 @@ Referenser
 -----------------------
 
 https://www.gal-rabaniam.com/[1]
-https://thomasbosc.com/en.html[2]
+https://thomasbosc.com[2]
 https://mattos-1.webflow.io/[3]
 
 Övrigt

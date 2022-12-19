@@ -46,7 +46,7 @@ Färgschema: Färgschemat för webbsidan är med högsta sannolikhet Triad.
 Jag tror att snälltåget typografi och färgval på deras hemsida matchar den bild dem önskar sig ha.
 
 Bild: 
-<img src="%base_url%/image/snalltag.jpg" width="40%">
+<img src="%base_url%/image/snalltag.jpg" width="40%" alt="bild">
 
 SL:
 
@@ -71,7 +71,7 @@ Färgschema: Färgschemat för SLs hemsida är med stor sannolikhet monokrom. De
 Jag tror att SLs typografi och färgval på deras hemsida matchar den bild dem önskar sig ha.
 
 Bild: 
-<img src="%base_url%/image/SL.jpg" width="40%">
+<img src="%base_url%/image/SL.jpg" width="40%" alt="bild">
 
 Norwegian:
 
@@ -96,7 +96,7 @@ Färgschema: Färgschemat ser ut att vara triadiskt eftersom det röd och blå l
 Jag tror att norwegians typografi och färgval på deras hemsida matchar den bild dem önskar sig ha.
 
 Bild: 
-<img src="%base_url%/image/norwegian.jpg" width="40%">
+<img src="%base_url%/image/norwegian.jpg" width="40%" alt="bild">
 
 Analys
 -----------------------

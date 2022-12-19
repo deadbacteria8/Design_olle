@@ -37,20 +37,20 @@ Resultat
 d = dator</h1>
 <br>
 Dries Van Noten:<br>
-<img src="%base_url%/image/dries.jpg" width="40%"><br>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQEYttHubCdR14plYUhpWCKWcgN0eFAUHKHGBjVTt-bOiJdSTMNlDvLVZe8HBY0mY6V47WaTwO0Oxq6/pubhtml?widget=true&amp;headers=false"></iframe>
+<img src="%base_url%/image/dries.jpg" width="40%" alt="bild"><br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQEYttHubCdR14plYUhpWCKWcgN0eFAUHKHGBjVTt-bOiJdSTMNlDvLVZe8HBY0mY6V47WaTwO0Oxq6/pubhtml?widget=true&amp;headers=false" title="title"></iframe>
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vQEYttHubCdR14plYUhpWCKWcgN0eFAUHKHGBjVTt-bOiJdSTMNlDvLVZe8HBY0mY6V47WaTwO0Oxq6/pubhtml
 
 Yohji Yamamoto:<br>
-<img src="%base_url%/image/yohji.jpg" width="40%"><br>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoSdZTJEGIW1UZV41_uf0ozNv9yRFW3Ng6M5UMUEm_RgAbTUKcGcfRKszlGqMyergyfrzylUHCHUfp/pubhtml?widget=true&amp;headers=false"></iframe>
+<img src="%base_url%/image/yohji.jpg" width="40%" alt="bild"><br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSoSdZTJEGIW1UZV41_uf0ozNv9yRFW3Ng6M5UMUEm_RgAbTUKcGcfRKszlGqMyergyfrzylUHCHUfp/pubhtml?widget=true&amp;headers=false" title="title"></iframe>
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSoSdZTJEGIW1UZV41_uf0ozNv9yRFW3Ng6M5UMUEm_RgAbTUKcGcfRKszlGqMyergyfrzylUHCHUfp/pubhtml
 
 Rick Owens:<br>
-<img src="%base_url%/image/rick.jpg" width="40%"><br>
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTySSfWngDp3ZWFqxr1bRTy47SyqbXLqE40oAMjaWHr-M8qUXtQxRDNMBe6nbRFYSkNREDSiMdA2ZvH/pubhtml?widget=true&amp;headers=false"></iframe>
+<img src="%base_url%/image/rick.jpg" width="40%" alt="bild"><br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTySSfWngDp3ZWFqxr1bRTy47SyqbXLqE40oAMjaWHr-M8qUXtQxRDNMBe6nbRFYSkNREDSiMdA2ZvH/pubhtml?widget=true&amp;headers=false" title="title"></iframe>
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTySSfWngDp3ZWFqxr1bRTy47SyqbXLqE40oAMjaWHr-M8qUXtQxRDNMBe6nbRFYSkNREDSiMdA2ZvH/pubhtml
 
 
